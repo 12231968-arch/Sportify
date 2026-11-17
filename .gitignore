@@ -1,0 +1,15 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+.DS_Store
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+.idea/
+.vscode/
+android/.gradle/
+android/local.properties
